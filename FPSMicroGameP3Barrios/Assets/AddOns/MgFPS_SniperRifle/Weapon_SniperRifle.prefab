@@ -142,7 +142,7 @@ MonoBehaviour:
   EjectionPort: {fileID: 0}
   ShellCasingEjectionForce: 2
   ShellPoolSize: 1
-  AmmoReloadRate: 1e+10
+  AmmoReloadRate: 0.1
   AmmoReloadDelay: 0
   MaxAmmo: 1
   AutomaticReleaseOnCharged: 0
